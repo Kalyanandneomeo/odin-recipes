@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project on odin. this is basically something i wanted to do to test my knowledge of web development. i am confident enough with the html basics but i have some problem with the git commit section. So if there are any discrepencies i would like to apolozise to my future self.
