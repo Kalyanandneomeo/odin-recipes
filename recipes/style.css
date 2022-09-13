@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    background-color: rgb(70, 70, 94);
+    color: white;
+    font-weight: bolder;
+    
+}
+
+h3{
+    background-color: rgb(70, 70, 94);
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}

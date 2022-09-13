@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    color:white;
+    background-color: skyblue;
+    text-align: justify;
+    font-size:xx-large;
+    font-weight: bolder;    
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p{
+    text-align:justify;
+}
+
+h2{
+    background-color: skyblue;
+    color: white;
+}
+
+button{
+    background-color: skyblue;
+    color: white;
+    font-weight: bold;
+}
